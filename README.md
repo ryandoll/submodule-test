@@ -1,2 +1,2 @@
 # submodule-test
-Adding a line
+Removed the original line.  Updating a second.
